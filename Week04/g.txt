@@ -1,1 +1,17 @@
-ghgh
+venvv\Scripts\activate    
+python operate.py --ip 192.168.50.1 --port 8080  
+  
+.\eval.ps1
+python SLAM_eval.py TrueMap.txt lab_output/slam.txt
+
+C:\Users\jessl\Documents\Y3S2\ECE4078\Group2>venvv\scripts\activate
+
+random_node = self.get_random_node()
+
+
+git add .
+git commit -m "feat: eval graph"
+git pull
+git push
+
+C:\Users\jessl\Documents\Y3S2\ECE4078\Group2\ECE4078-group-repo\Week02-04\calibration
